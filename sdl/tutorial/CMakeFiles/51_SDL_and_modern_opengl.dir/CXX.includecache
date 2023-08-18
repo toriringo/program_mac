@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/51_SDL_and_modern_opengl.cpp
+SDL2/SDL.h
+-
+GL/glew.h
+-
+SDL2/SDL_opengl.h
+-
+GL/glu.h
+-
+stdio.h
+-
+string
+-
+

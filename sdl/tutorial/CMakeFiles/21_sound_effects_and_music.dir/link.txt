@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/21_sound_effects_and_music.dir/21_sound_effects_and_music.cpp.o -o exe/21_sound_effects_and_music  -lSDL2 -lSDL2_image -lSDL2_mixer 

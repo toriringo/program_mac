@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/37_multiple_displays.cpp
+SDL2/SDL.h
+-
+stdio.h
+-
+string
+-
+sstream
+-
+

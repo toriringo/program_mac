@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/04_key_presses.cpp
+SDL2/SDL.h
+-
+stdio.h
+-
+string
+-
+

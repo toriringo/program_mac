@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/44_frame_independent_movement.cpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+stdio.h
+-
+string
+-
+

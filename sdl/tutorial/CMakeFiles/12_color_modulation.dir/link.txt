@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/12_color_modulation.dir/12_color_modulation.cpp.o -o exe/12_color_modulation  -lSDL2 -lSDL2_image 

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/43_render_to_texture.dir/43_render_to_texture.cpp.o -o exe/43_render_to_texture  -lSDL2 -lSDL2_image 

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/33_file_reading_and_writing.dir/33_file_reading_and_writing.cpp.o -o exe/33_file_reading_and_writing  -lSDL2 -lSDL2_image -lSDL2_ttf 

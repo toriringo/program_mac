@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/20_force_feedback.dir/20_force_feedback.cpp.o -o exe/20_force_feedback  -lSDL2 -lSDL2_image 

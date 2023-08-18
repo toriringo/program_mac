@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/14_animated_sprites_and_vsync.dir/14_animated_sprites_and_vsync.cpp.o -o exe/14_animated_sprites_and_vsync  -lSDL2 -lSDL2_image 

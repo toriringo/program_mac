@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/19_gamepads_and_joysticks.cpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+stdio.h
+-
+string
+-
+cmath
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/11_clip_rendering_and_sprite_sheets.dir/11_clip_rendering_and_sprite_sheets.cpp.o -o exe/11_clip_rendering_and_sprite_sheets  -lSDL2 -lSDL2_image 

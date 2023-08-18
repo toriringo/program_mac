@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<script>
+
+// asyncはpromiseオブジェクトを返す
+async function battle()
+{
+  // asyncのreturnはresolve()の実行と等しい
+  return 10;
+}
+
+let p = battle();
+
+document.write("hello<br>");
+
+p.then(
+  function(value)
+  {
+    document.write(value);
+  }
+);
+
+document.write("world<br>");
+
+</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/46_multithreading.cpp
+SDL2/SDL.h
+-
+SDL2/SDL_thread.h
+-
+SDL2/SDL_image.h
+-
+stdio.h
+-
+string
+-
+

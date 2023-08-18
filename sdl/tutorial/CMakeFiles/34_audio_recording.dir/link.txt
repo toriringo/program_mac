@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/34_audio_recording.dir/34_audio_recording.cpp.o -o exe/34_audio_recording  -lSDL2 -lSDL2_image -lSDL2_ttf 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/50_SDL_and_opengl_2.dir/50_SDL_and_opengl_2.cpp.o  -o 50_SDL_and_opengl_2 -lSDL2 -lGLEW -lGL 

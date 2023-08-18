@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mittim/mittim/program/game/sdl/tutorial/06_extension_libraries_and_loading_other_image_formats.cpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+stdio.h
+-
+string
+-
+
