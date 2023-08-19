@@ -3,6 +3,6 @@
 *.out
 .DS_Store
 admin_matsushita
-app_and_lib/tiny_link
+app_and_lib/
 sdl/sdl_tutorial_LazyFoo
 project/dragon-quest-js/teaching_material
