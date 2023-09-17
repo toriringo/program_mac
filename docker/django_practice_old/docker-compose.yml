@@ -1,0 +1,11 @@
+version: '3'
+services:
+  django:
+    image: python:latest
+    container_name: "django_practice"
+    build: ./image/django
+    ports:
+      - "10080:8000"
+    volumes:
+      - ./django/src/:/usr/src/
+
