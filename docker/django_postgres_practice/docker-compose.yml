@@ -16,7 +16,9 @@ services:
   web:
     build: .
     container_name: django_practice
-    command: python manage.py runserver 0.0.0.0:8000
+    command: >
+        python manage.py runserver 0.0.0.0:8000;
+        apt update && apt install vim
     volumes:
       - .:/code
     ports:
